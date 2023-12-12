@@ -11,6 +11,9 @@ pero no conseguía conectar la página, un ejemplo de esto es que hacia cambios
 en el VScode y teniendo la página conectada con GIT, no se me actualizaban
 los cambios en la página web de GIT, al final con ayuda de unos compañeros
 conseguí conectar la página.
+Relacionado con GIT también tube problemas con la rutas, ya que dentro del 
+VScode me aparecian las imágenes que tenía puestas, pero en GIThub no, al final 
+probando y probando conseguí poner las imágenes.
 
 Después tube algún problema a la hora de hacer el CSS, ya que me lancé a hacer 
 el CSS sin mirar los pauntes, entonces hacia cambios en el CSS pero no conseguía
